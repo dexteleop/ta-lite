@@ -1,1 +1,1 @@
-# teleavatar-lite
+# TeleAvatar Lite
